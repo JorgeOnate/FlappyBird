@@ -13,7 +13,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PipeMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PipeSpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlyMecanism.cs" />
+        <option value="$PROJECT_DIR$/Assets/Score.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AddScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -57,6 +62,11 @@
       <option name="presentableId" value="Default" />
       <updated>1598926020682</updated>
       <workItem from="1598926038272" duration="1330000" />
+      <workItem from="1598973840794" duration="642000" />
+      <workItem from="1598977499073" duration="55000" />
+      <workItem from="1598978578787" duration="4668000" />
+      <workItem from="1598986588185" duration="1031000" />
+      <workItem from="1598988978276" duration="5092000" />
     </task>
     <servers />
   </component>
