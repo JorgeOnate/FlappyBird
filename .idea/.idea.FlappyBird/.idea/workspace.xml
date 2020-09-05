@@ -10,6 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpaceshipSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -19,6 +22,10 @@
         <option value="$PROJECT_DIR$/Assets/Score.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AddScore.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spaceship.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyOnTouch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpaceshipSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DestroyOnTouch.cs" />
       </list>
     </option>
   </component>
@@ -67,6 +74,7 @@
       <workItem from="1598978578787" duration="4668000" />
       <workItem from="1598986588185" duration="1031000" />
       <workItem from="1598988978276" duration="5092000" />
+      <workItem from="1599341136114" duration="6751000" />
     </task>
     <servers />
   </component>
@@ -77,5 +85,11 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-4" y="0" width="890" height="1019" key="dock-window-1" timestamp="1599344293434">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-4" y="0" width="890" height="1019" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1599344293434" />
   </component>
 </project>
